@@ -1,0 +1,32 @@
+body {
+  font-size: 17px;
+  line-height: normal;
+  color: #ffffff;
+  font-family: "Cuprum", "Arial", sans-serif;
+}
+h1 {
+  font-size: 16px;
+  line-height: 23px;
+  color: #ee434f;
+  font-family: "Cuprum", "Arial", sans-serif;
+  font-style: italic;
+}
+.popular h2 {
+  font-size: 30px;
+  line-height: 30px;
+  color: #32425c;
+  font-family: "Cuprum", "Arial", sans-serif;
+}
+.services h2 {
+  font-size: 30px;
+  line-height: 0.8;
+  color: #000000;
+  font-family: "Cuprum", "Arial", sans-serif;
+}
+.catalog-item h3 {
+  font-size: 18px;
+  line-height: 20px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "PT Sans", "Arial", sans-serif;
+}
